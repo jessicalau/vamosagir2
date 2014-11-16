@@ -76,6 +76,7 @@ class Projects::ContributionsController < ApplicationController
     params.permit(policy(resource).permitted_attributes)
   end
 
+=begin
   def avaiable_payment_engines
     @engines ||= if parent.using_pagarme?
       [PaymentEngines.find_engine('Pagarme')]
@@ -86,6 +87,16 @@ class Projects::ContributionsController < ApplicationController
       end
     end
   end
+=end
+#Parte que substitui a parte comentada acima
+  def avaiable_payment_engines
+    @engines ||= if parent.using_pagarme?
+      [PaymentEngines.find_engine('Paypal')]
+    else
+      [PaymentEngines.find_engine('Paypal')]
+    end
+  end
+#Fim da parte que substitui
 
   def collection
     @contributions ||= apply_scopes(end_of_association_chain).available_to_display.order("confirmed_at DESC").per(10)
