@@ -4,7 +4,7 @@ begin
       address: 'smtp.sendgrid.net',
       port: '587',
       authentication: :plain,
-      user_name: CatarseSettings.get_without_cache(:sendgrid_user_name),
+      user_name: 'andre@mobilizefb.com',
       password: CatarseSettings.get_without_cache(:sendgrid),
       domain: 'heroku.com'
     }

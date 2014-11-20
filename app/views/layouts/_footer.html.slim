@@ -6,7 +6,7 @@ footer.footer
           h3.footer-title= t('.titles.contact')
           ul.footer-list
             
-            li.zendesk_widget= link_to t('.links.contact'), "mailto:contato@vamosagir.com"
+            li= link_to t('.links.contact'), "mailto:contato@vamosagir.com"
       .footer-div
         .footer-list
           h3.footer-title= t('.titles.about')
@@ -25,4 +25,4 @@ footer.footer
       
     hr
     .row
-        p.copyleft= "#{} Vamos Agir, #{DateTime.now.year} | Open source #{link_to 'Catarse @ Github', "#{CatarseSettings[:github_url]}", :class => 'github', target: '_blank'}".html_safe
+        p.copyleft= "contato@vamosagir.com".html_safe

@@ -629,11 +629,10 @@ RSpec.describe Project, type: :model do
 
     context "when project is online_date >= 10/11" do
       before do
-        project.update_attribute(:online_date, '2014-11-10'.to_date)
+        CatarseSettings[:projects_enabled_to_use_pagarme] = nil
       end
 
-      subject { project.using_pagarme? }
-      it { is_expected.to be_truthy }
+      it { is_expected.to be_falsey }
     end
 
     context "when project is not using pagarme" do
