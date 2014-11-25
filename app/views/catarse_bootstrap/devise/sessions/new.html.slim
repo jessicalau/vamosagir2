@@ -13,9 +13,7 @@
         .text = t ('.no_account_html')
         = link_to t('.links.register'), new_user_registration_url, class: 'link'
 
-      .login-fb
-        = button_to t('.form.inputs.facebook'), user_omniauth_authorize_path(provider: :facebook, locale: nil), class: 'button bt-medium bt-fb'
-
+      
       .separator
         .text.or = t('or')
 
