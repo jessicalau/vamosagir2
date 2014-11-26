@@ -13,9 +13,7 @@
         .text = t '.have_account_html'
         = link_to t('.links.login'), new_user_session_url, class: 'link'
 
-      .login-fb
-        = button_to t('.form.inputs.facebook'), user_omniauth_authorize_path(provider: :facebook, locale: nil), class: 'button bt-medium bt-fb'
-
+      
       .separator
         .text.or = t('or')
 
@@ -34,8 +32,7 @@
               = check_box_tag :show_password
               = label_tag :show_password, t('.form.labels.show_password')
 
-          = form.input :newsletter, as: :boolean, inline_label: t('.form.labels.newsletter'), input_html: { class: 'w-checkbox-input', checked: true }, wrapper_html: {class: 'w-checkbox-input w-clearfix' }
-
+          
           = form.submit t('.form.inputs.submit'), class: 'w-button button bt-medium'
 
-          p.accept = t(".form.labels.accept", terms_url: CatarseSettings[:terms_url], privacy_url: CatarseSettings[:privacy_url]).html_safe
+          p.accept = t(".form.labels.accept", terms_url: "terms-of-use", privacy_url: "privacy-policy").html_safe

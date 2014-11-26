@@ -46,7 +46,7 @@
           .submit
             fieldset.accept_terms
               = check_box_tag 'accept'
-              = label_tag 'accept', t('shared.accept_terms_html', link: link_to(t('shared.terms'), CatarseSettings[:terms_url], target: :_blank)), class: 'inline'
+              = label_tag 'accept', t('shared.accept_terms_html', link: link_to(t('shared.terms'), "terms-of-use", target: :_blank)), class: 'inline'
 
         #payment.hide data-update-info-path=project_contribution_path(project_id: @contribution.project.id, id: @contribution.id, format: :json)
           .title

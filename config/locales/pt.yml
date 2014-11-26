@@ -3,7 +3,7 @@ pt:
   days: dias
   facebook_locale: pt_BR
   failure_title: 'Por favor, corrija os seguintes erros:'
-  i_just_contributed: Eu acabei de apoiar o projeto %{name} no @catarse
+  i_just_contributed: Eu acabei de apoiar o projeto %{name} no Vamos Agir
   'no': Não
   'yes': Sim
   not_informed: não informado
@@ -11,10 +11,10 @@ pt:
   sending: Enviando...
   share_my_contributions: 'Confira o projeto '
   site:
-    description: O Catarse é uma ferramenta diferente – e colaborativa – para tirar
+    description: O Vamos Agir é uma ferramenta diferente – e colaborativa – para tirar
       o seu projeto do papel!
-    keywords: catarse, crowdfunding, financiamento coletivo, projeto, comunidade,
+    keywords: vamosagir, crowdfunding, financiamento coletivo, projeto, comunidade,
       open source
     meta_title: "%{title} · %{company_name}"
-    title: Corra por sua causa!
+    title: Corra pela sua causa!
 
