@@ -30,7 +30,7 @@
             = form.input :full_name, required: true, as: :string
             = form.input :email, required: true, as: :string
             .clearfix
-            fieldset.address_data
+            /fieldset.address_data
               .title
                 h2
               = form.input :cpf, as: :string, input_html: {autocomplete: 'off', data: {mask: '999.999.999-99'}}, required: true
