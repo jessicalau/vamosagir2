@@ -4,7 +4,7 @@
 | Olá #{user.name},
 br/
 br/
-| Novidades dessa semana na categoria #{category.name_pt} do Vamos Agir
+| Novidades dessa semana na categoria #{category.name_pt} do Catarse
 br/
 br/
 - category.projects.of_current_week.each do |project|
@@ -20,4 +20,4 @@ br/
 | #{CatarseSettings[:company_name]}
 br/
 br/
-| #{link_to 'Descadastrar', unsubscribe_category_url(category), target:'__blank'} o recebimento de projetos recentes dessa categoria.
+| #{link_to 'Descadastrar', unsubscribe_category_url(category), target:'__blank'} o recebimento de corredores recentes dessa categoria.
