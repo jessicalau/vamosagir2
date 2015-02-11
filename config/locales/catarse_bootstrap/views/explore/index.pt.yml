@@ -1,7 +1,7 @@
 pt:
   explore:
     index:
-      success_follow: "Agora você segue a categoria e vai receber semanalmente uma lista com os novos projetos de %{name}"
+      success_follow: "Agora você segue a categoria e vai receber semanalmente uma lista com os novos corredores de %{name}"
       success_unfollow: "Você deixou de seguir essa categoria %{name}"
       follow: Seguir
       unfollow: Deixar de seguir
@@ -12,10 +12,10 @@ pt:
       near: Próximos a mim
       quick_explore: Busca rápida
       recent: Recentes
-      recommended: Recomendados
-      subtitle: Explore os projetos, encontre aqueles que mexem com seu coração, e
+      recommended: Corredores
+      subtitle: Explore os corredores, encontre aqueles que mexem com seu coração, e
         faça acontecer!
       successful: Bem-sucedidos
-      title: Encontre projetos incríveis
-    title: Explore os projetos
+      title: Encontre corredores incríveis
+    title: Explore os corredores
 

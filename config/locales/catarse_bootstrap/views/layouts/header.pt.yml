@@ -6,11 +6,11 @@ pt:
       faq: FAQ
       help: Ajuda
       profile: Meus dados
-      projects: Meus projetos
+      projects: Meus corredores
       signin: Login
       signup: Cadastre-se
       submit: Seja um corredor
-      search: Busque projetos
+      search: Busque corredores
     login:
       login_with_facebook: entre com sua conta do facebook
     user:
