@@ -21,31 +21,31 @@ pt:
         blocks:
           first:
             title: "1. Informações básicas"
-            description: "Você está criando o rascunho de seu projeto. As informações preenchidas nesse primeiro bloco não podem ser  alteradas após o seu projeto entrar no ar."
+            description: "Você está criando o rascunho de seu corredor. As informações preenchidas nesse primeiro bloco não podem ser  alteradas após o seu corredor entrar no ar."
           second:
-            title: "2. História do projeto"
-            description: "As informações abaixo poderão ser editadas por você a qualquer momento, até quando seu projeto estiver no ar."
-          disclaimer: "Nem todos os projetos enviados vão ao ar, nosso atendimento irá avaliar o foco, a viabilidade, a consistência e a apresentação do seu projeto. Se ele não está de acordo com os <a href='http://suporte.catarse.me/hc/pt-br/articles/202387638-Diretrizes-para-a-cria%C3%A7%C3%A3o-de-projetos' class='alt-link' target='_blank'>Critérios de Seleção da Plataforma</a>, ele poderá ser recusado."
+            title: "2. História do corredor"
+            description: "As informações abaixo poderão ser editadas por você a qualquer momento, até quando seu corredor estiver no ar."
+          disclaimer: "Nem todos os corredores enviados vão ao ar, nosso atendimento irá avaliar o foco, a viabilidade, a consistência e a apresentação do seu corredor. Se ele não está de acordo com os <a href='http://suporte.catarse.me/hc/pt-br/articles/202387638-Diretrizes-para-a-cria%C3%A7%C3%A3o-de-projetos' class='alt-link' target='_blank'>Critérios de Seleção da Plataforma</a>, ele poderá ser recusado."
 
         labels:
-          name: "Nome do projeto"
-          permalink: "URL do projeto"
+          name: "Nome do Corredor"
+          permalink: "URL do corredor"
           category: "Escolha a categoria"
           goal: "Valor a ser arrecadado"
           online_days: "Prazo para arrecadação"
           video_url: "URL do vídeo"
-          about: "Descrição do projeto"
+          about: "Descrição do corredor"
           headline: "Frase de efeito"
           traffic_sources: "Como você conheceu o Vamos Agir?"
 
         hints:
           name: "Quanto mais direto melhor. Não ultrapasse 50 caracteres"
-          permalink: "É o endereço do seu projeto, deve ser fácil de memorizar. Tente não usar underline, hífen e etc."
-          category: "Antes de enviar, explore e se inspire em outros projetos da mesma categoria que o seu."
+          permalink: "É o endereço do seu corredor, deve ser fácil de memorizar. Tente não usar underline, hífen e etc."
+          category: "Antes de enviar, explore e se inspire em outros corredores da mesma categoria que o seu."
           goal: "Grande parte dos apoios serão de pessoas próximas a você. Pense como conseguir pelo menos 50% do valor da meta dentro da sua rede de contatos."
-          online_days: "Em média os projetos ficam no ar por 40 dias. O prazo máximo da campanha é de 60 dias."
-          video_url: "Insira aqui o link do seu vídeo. Ele deve estar hospedado no Youtube ou no Vimeo. Se ainda não o tiver, tudo bem, você pode adicioná-lo depois. O vídeo é muito importante para o sucesso de sua campanha e obrigatório para projetos com metas de R$ 5.000 ou mais."
-          about: "Fale sobre o que será realizado, como o dinheiro será utilizado, quem está por trás do projeto, como e quando o projeto será entregue. Seja informal e direto, essa é uma conversa entre pessoas que querem compartilhar uma ideia, não um projeto de edital."
+          online_days: "Em média os corredores fazem campanha por 40 dias. O prazo máximo da campanha é de 60 dias."
+          video_url: "Insira aqui o link do seu vídeo. Ele deve estar hospedado no Youtube ou no Vimeo. Se ainda não o tiver, tudo bem, você pode adicioná-lo depois. O vídeo é muito importante para o sucesso de sua campanha, mas caso não tenha, pule esta etapa para colocá-lo depois"
+          about: "Fale sobre o que será realizado, como o dinheiro será utilizado, quem está por trás do corredor, como e quando o projeto será entregue. Seja informal e direto, essa é uma conversa entre pessoas que querem compartilhar uma ideia."
           headline: "No máximo 100 caracteres."
 
         info:

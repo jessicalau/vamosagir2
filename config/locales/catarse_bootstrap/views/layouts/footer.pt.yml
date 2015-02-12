@@ -4,7 +4,7 @@ pt:
       links:
         blog: Blog
         contact: Contato
-        discover: Descubra projetos
+        discover: Descubra corredores
         expiring: Na reta final
         facebook: Facebook
         faq: Ajuda
@@ -15,8 +15,8 @@ pt:
         press: Imprensa
         privacy: Privacidade
         recents: Recentes
-        recommended: Recomendados
-        submit: Envie seu projeto
+        recommended: Corredores
+        submit: Envie seu corredor
         terms: Termos de uso
         twitter: Twitter
       texts:

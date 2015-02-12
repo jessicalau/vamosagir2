@@ -9,16 +9,16 @@ pt:
       ok: 'Ok! Vamos te mandar um lembrete por e-mail 48 horas antes do fim da campanha'
       active_btn: 'Lembre-me deste projeto'
       deactive_btn: 'Não quero mais ser lembrado'
-    send_to_analysis: Seu projeto foi enviado para nossa equipe.
+    send_to_analysis: Seu corredor foi enviado para nossa equipe.
     twitter:
-      take_a_look: Confira o projeto %{name} no @catarse
+      take_a_look: Confira o corredor %{name} no @vamosagir
     video_embed:
-      a_project_by_html: Um projeto de %{link} no
+      a_project_by_html: Um corredor de %{link} no
     posts:
       project_post:
         unavailable: Esta novidade só está disponível para apoiadores.
         contribute: Apoie
-        unavailable_contribute: este projeto para visualizá-la.
+        unavailable_contribute: este corredor para visualizá-lo.
         destroy: Remover Novidade
         destroy_confirmation: Deseja remover esta novidade?
       new:
@@ -38,26 +38,26 @@ pt:
       link_reward: Baixar relatório dos apoiadores da recompensa de %{value}
     project_about:
       embed: embed
-      embed_title: Incorpore este projeto no seu site
+      embed_title: Incorpore este corredor no seu site
     show:
       contribute_project:
         display_status:
-          reached_goal: "Este projeto será bem-sucedido e financiado em %{date}"
-          not_reached_goal: "Este projeto só será financiado se pelo menos %{goal} forem atingidos até %{date}"
-          failed: "Este projeto não atingiu o mínimo de %{goal} até %{date} e não foi financiado"
-          rejected: "Este projeto não foi aceito. Não é possível realizar um apoio."
-          in_analysis: "Este projeto está em análise e ainda não está aberto para receber apoios."
-          successful: "Este projeto foi bem-sucedido e foi financiado em %{date}"
-          waiting_funds: "Aguardando a confirmação de boletos para saber se este projeto será financiado."
-          draft: "Esse projeto é apenas um rascunho e ainda não está aberto para receber apoios."
-        submit: Apoiar este projeto
-      project_by: projeto por
+          reached_goal: "Este corredor será bem-sucedido e financiado em %{date}"
+          not_reached_goal: "Este corredor só será financiado se pelo menos %{goal} forem atingidos até %{date}"
+          failed: "Este corredor não atingiu o mínimo de %{goal} até %{date} e não foi financiado"
+          rejected: "Este corredor não foi aceito. Não é possível realizar um apoio."
+          in_analysis: "Este corredor está em análise e ainda não está aberto para receber apoios."
+          successful: "Este corredor foi bem-sucedido e foi financiado em %{date}"
+          waiting_funds: "Aguardando a confirmação de boletos para saber se este corredor será financiado."
+          draft: "Esse corredor é apenas um rascunho e ainda não está aberto para receber apoios."
+        submit: Apoiar este corredor
+      project_by: corredor por
       funding_period: Período de campanha
-      count_contributed_projects: apoiou %{total} projetos
+      count_contributed_projects: apoiou %{total} corredores
       project_header:
-        subtitle_html: "Um projeto de %{link}"
-        without_city: "Um projeto de"
-        with_city: "Um projeto de %{category_name} por %{author} em %{city}"
+        subtitle_html: "Um corredor de %{link}"
+        without_city: "Um corredor de"
+        with_city: "Um corredor de %{category_name} por %{author} em %{city}"
       menu:
         about: Sobre
         add_reward: Adicionar recompensa

@@ -1,9 +1,9 @@
 pt:
   projects:
     index_header:
-      subtitle: Financie projetos de maneira colaborativa e torne-se parte de algo
-        maior. Promova uma catarse coletiva! Você é a peça que falta nesta história.
-      title: Faça acontecer os projetos em que você acredita
+      subtitle: Financie corredores de maneira colaborativa e torne-se parte de algo
+        maior.Você é a peça que falta nesta história.
+      title: Faça acontecer as corridas e contribua por uma causa maior
     index:
       box:
         by: por
@@ -11,10 +11,10 @@ pt:
       banner: "Conheça a pesquisa"
       links:
         channels: "Descubra o Canal Asas"
-        recommended: "Descubra projetos recomendados"
-        expiring: "Descubra projetos na reta final"
-        recents: "Descubra projetos recentes"
-        near: "Descubra projetos perto de você"
+        recommended: "Conheça outros corredores"
+        expiring: "Descubra corredores quase alcançando o objetivo"
+        recents: "Descubra corredores recentes"
+        near: "Descubra corredores perto de você"
       sidebar:
         titles:
           blog: blog
@@ -30,7 +30,7 @@ pt:
         near:
           title: 'Próximos a mim'
         recommended:
-          title: 'Recomendados'
+          title: 'Corredores'
         expiring:
           title: "Na reta final"
         recents:

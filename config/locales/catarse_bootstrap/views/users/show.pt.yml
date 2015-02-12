@@ -61,7 +61,7 @@ pt:
       submit_text: "Escolha sua imagem"
       submit: "Enviar"
       my_data: "Meus dados"
-      newsletter: "Quero receber novidades do Catarse por email"
+      newsletter: "Quero receber novidades do Vamos Agir por email"
       password_hint: "<i>Deixe em branco caso você não queira trocar sua senha.</i>"
       deactivate: "Desativar a minha conta"
       deactivate_notice: "A conta de %{name} foi desativada."
@@ -74,23 +74,23 @@ pt:
     show:
       projects:
         here: 'aqui'
-        no_projects: "%{name} ainda não realizou nenhum projeto no Catarse. Será que a inspiração vai bater uma hora dessas?"
+        no_projects: "%{name} ainda não realizou nenhum projeto no Vamos Agir. Será que a inspiração vai bater uma hora dessas?"
         no_projects_current_user_html: "Você ainda não realizou nenhum projeto no Catarse. Deixe a inspiração bater e clique %{link} para começar!"
-        title: "Projetos de %{name}"
-        title_current_user: "Meus projetos"
+        title: "Corredores de %{name}"
+        title_current_user: "Meus Corredores"
       contributions:
         anonymous: "Apoio anônimo."
-        no_contributions: "%{name} ainda não apoiou nenhum projeto. Mas a gente sabe que é só questão de tempo! :D"
-        no_contributions_current_user_html: "Você ainda não apoiou nenhum projeto. Que tal <a href=\"/\">começar agora</a>?"
+        no_contributions: "%{name} ainda não apoiou nenhum corredor. Mas a gente sabe que é só questão de tempo! :D"
+        no_contributions_current_user_html: "Você ainda não apoiou nenhum corredor. Que tal <a href=\"/\">começar agora</a>?"
         no_reward: "Você não selecionou nenhuma recompensa"
-        title: "Projetos que %{name} já apoiou"
-        title_current_user: "Projetos que já apoiei"
+        title: "Corredor que %{name} já apoiou"
+        title_current_user: "Corredores que já apoiei"
         your_reward: "Sua recompensa"
       attention: "Atenção"
       tabs:
         credit_cards: 'Cartões de credito'
-        contributed_projects: "Projetos apoiados"
-        created_projects: "Projetos criados"
+        contributed_projects: "Corredores apoiados"
+        created_projects: "Corredores criados"
         comments: Comentários
         credits: Créditos
         settings: Preferências
