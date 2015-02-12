@@ -1,7 +1,7 @@
 pt:
   projects:
     new:
-      page-title: "Comece seu projeto"
+      page-title: "Comece sua campanha"
 
       faq:
         titles:
@@ -14,39 +14,39 @@ pt:
           support_contact: "Entre em contato com a gente"
           how_it_works: "Como o Vamos Agir funciona?"
           money: "Como receberei o dinheiro?"
-          selection: "Como os projetos são selecionados?"
+          selection: "Como as campanhas são selecionados?"
           all_or_nothing: "Por que Tudo ou Nada?"
 
       form:
         blocks:
           first:
             title: "1. Informações básicas"
-            description: "Você está criando o rascunho de seu corredor. As informações preenchidas nesse primeiro bloco não podem ser  alteradas após o seu corredor entrar no ar."
+            description: "Você está criando o rascunho da sua campanha. Esta parte, depois de escrita, não pode ser alterada. Evite ter que reescrever tudo depois, siga as instruções e ficará bom!"
           second:
-            title: "2. História do corredor"
-            description: "As informações abaixo poderão ser editadas por você a qualquer momento, até quando seu corredor estiver no ar."
-          disclaimer: "Nem todos os corredores enviados vão ao ar, nosso atendimento irá avaliar o foco, a viabilidade, a consistência e a apresentação do seu corredor. Se ele não está de acordo com os <a href='http://suporte.catarse.me/hc/pt-br/articles/202387638-Diretrizes-para-a-cria%C3%A7%C3%A3o-de-projetos' class='alt-link' target='_blank'>Critérios de Seleção da Plataforma</a>, ele poderá ser recusado."
+            title: "2. História da campanha"
+            description: "As informações abaixo poderão ser editadas por você a qualquer momento, até quando seu projeto estiver no ar."
+          disclaimer: "Nem todos os projetos enviados vão ao ar, nosso atendimento irá avaliar o foco, a viabilidade, a consistência e a apresentação do seu projeto."
 
         labels:
-          name: "Nome do Corredor"
-          permalink: "URL do corredor"
+          name: "Nome da campanha"
+          permalink: "URL da campanha"
           category: "Escolha a categoria"
           goal: "Valor a ser arrecadado"
           online_days: "Prazo para arrecadação"
           video_url: "URL do vídeo"
-          about: "Descrição do corredor"
+          about: "Descrição da campanha"
           headline: "Frase de efeito"
           traffic_sources: "Como você conheceu o Vamos Agir?"
 
         hints:
-          name: "Quanto mais direto melhor. Não ultrapasse 50 caracteres"
-          permalink: "É o endereço do seu corredor, deve ser fácil de memorizar. Tente não usar underline, hífen e etc."
+          name: "O melhor é algo do tipo: 'Maria vai correr pela ONG X'. Não ultrapasse 50 caracteres."
+          permalink: "É o endereço da campanha, deve ser fácil de memorizar. Não use underline, hífen e etc."
           category: "Antes de enviar, explore e se inspire em outros corredores da mesma categoria que o seu."
           goal: "Grande parte dos apoios serão de pessoas próximas a você. Pense como conseguir pelo menos 50% do valor da meta dentro da sua rede de contatos."
-          online_days: "Em média os corredores fazem campanha por 40 dias. O prazo máximo da campanha é de 60 dias."
-          video_url: "Insira aqui o link do seu vídeo. Ele deve estar hospedado no Youtube ou no Vimeo. Se ainda não o tiver, tudo bem, você pode adicioná-lo depois. O vídeo é muito importante para o sucesso de sua campanha, mas caso não tenha, pule esta etapa para colocá-lo depois"
-          about: "Fale sobre o que será realizado, como o dinheiro será utilizado, quem está por trás do corredor, como e quando o projeto será entregue. Seja informal e direto, essa é uma conversa entre pessoas que querem compartilhar uma ideia."
-          headline: "No máximo 100 caracteres."
+          online_days: "Em média as campanhas ficam no ar por 40 dias. O prazo máximo da campanha é de 60 dias."
+          video_url: "Insira aqui o link do seu vídeo. Ele deve estar hospedado no Youtube ou no Vimeo. Se ainda não o tiver, tudo bem, você pode adicioná-lo depois. O vídeo é muito importante para o sucesso de sua campanha. Caso não o tenha, passe essa etapa pra colocá-lo depois.."
+          about: "Fale sobre você, sobre seu vínculo com a ONG (coloque o link da ONG se quiser). Quanto mais pessoal, mais convencerá seus amigos e contatos. Evite o copy paste do site da ONG mas também conte o que ela faz, com suas próprias palavras. Seja informal e direto, essa é uma conversa entre pessoas que querem fazer o bem, e não defender uma tese de mestrado."
+          headline: "Essa frase sairá na 'capa' da plataforma. Fale algo que resume e impacta. Que convence e gera ação. Mas tudo no máximo em 100 caracteres!"
 
         info:
           permalink: http://vamosagir.com/
